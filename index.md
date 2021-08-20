@@ -2,7 +2,7 @@
 
 > Everything with form is unreal. 
 
-**Email:** yaochen dot hu dot huawei dot com
+**Email:** yaochen dot hu at huawei dot com
 
 ---
 
