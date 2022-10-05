@@ -25,8 +25,12 @@ I am interested in wide area of topics, from applicational scenarios on distribu
 1. **Yaochen Hu**, Di Niu, Zongpeng Li. "Internet Video Multicast via Constrained Space Information Flow," in IEEE MMTC E-letter, 9(3), April 2014. [[paper]](./papers/paper_yhu14internet.pdf)
 
 ---
-### Misc. 
+### Highlighted Projects. 
 1. [**Five in Row**](https://github.com/hyclex/five_in_row) I developed a python based board game five in row equipped with alpha-beta search algorithm. To evaluate the board value, I invented a simple hashing algorithm that convolves the connected pieces in each line segment of 5 points in horizontal, vertical and diagonal directions. It turns out the algorithm is so strong and it can beat me (I believe I should be with intermediate to advanced level in this game). 
+
+---
+### Personal Thought on Doing Research
+1. 
 
 
 Last update: August 2021
