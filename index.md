@@ -7,9 +7,9 @@
 [**Google Scholar**](https://scholar.google.com/citations?user=ffhjIQ4AAAAJ&hl=en)
 
 ---
-I am a researcher with Huawei Noah's Ark Lab Montreal Research Center. I received my bachelor's degree from the Department of Electrical and Information Engineering at Huazhong University of Science and Technology and my Ph.D. degree at the Department of Electrical and Computing Engineering at the University of Alberta.
+I am a researcher with Huawei Noah's Ark Lab Montreal Research Center. I received my bachelor's degree from the Department of Electrical and Information Engineering at Huazhong University of Science and Technology and my Ph.D. degree from the Department of Electrical and Computing Engineering at the University of Alberta.
 
-I always admire the insightful science or art achievements that result from the inspiration and perspiration of the people who have a relentless pursuit of truth and beauty. 
+I always admire the insightful science or art achievements that result from the inspiration and perspiration of people who have a relentless pursuit of truth and beauty. 
 
 I am interested in a wide area of topics, from applicational scenarios to fundamental theoretical problems. Specifically, from the application side, I am interested in realistic large-scale recommender systems, distributed systems and parallel computation. I have also worked on the load balancing problem for distributed erasure-coded systems. From the theoretical side, I am interested in the methodologies related to computer science, including optimization, approximation algorithms, etc. Recently, I started to explore the application of Bayesian analysis. In the era of machine learning, I am actively working on projects related to graph neural networks. 
 
@@ -45,7 +45,11 @@ Use the Chicago style
 
 ---
 ### Misc. 
-1. [**Five in Row**](https://github.com/hyclex/five_in_row) I developed a python based board game five in row equipped with alpha-beta search algorithm. To evaluate the board value, I invented a simple hashing algorithm that convolves the connected pieces in each line segment of 5 points in horizontal, vertical and diagonal directions. It turns out the algorithm is so strong and it can beat me (I believe I should be with intermediate to advanced level in this game). 
+1. [**Five in Row**](https://github.com/hyclex/five_in_row) I developed a python-based board game, five in a row, equipped with the alpha-beta search algorithm. To evaluate the board value, I invented a simple hashing algorithm that convolves the connected pieces in each line segment of 5 points in horizontal, vertical and diagonal directions. The algorithm is so strong that it can beat me (I believe I should be at an intermediate to advanced level in this game). 
 
+---
+### Research Skills
+* [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+* [Guideline on peer review](https://logconference.org/reviews/)
 
 Last update: October 2022
