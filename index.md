@@ -4,7 +4,7 @@
 
 **Email:** yaochen dot hu at huawei dot com
 
-[**Google Scholar**](https://scholar.google.com/citations?user=ffhjIQ4AAAAJ&hl=en)
+[**Google Scholar**](https://scholar.google.com/citations?user=VMwM-ZwAAAAJ&hl=en)
 
 ---
 I am a researcher with Huawei Noah's Ark Lab Montreal Research Center. I received my bachelor's degree from the Department of Electrical and Information Engineering at Huazhong University of Science and Technology and my Ph.D. degree from the Department of Electrical and Computing Engineering at the University of Alberta.
